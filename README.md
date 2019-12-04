@@ -2,7 +2,9 @@
 
 &ensp;&ensp;&ensp;&ensp;仿支付宝，微信支付成功后的打钩动画，暂时实现两种不同动画，只需要在gradle中引入即可使用。用户可以自己决定动画开启时间，即需要用户手动控制动画。
 
-#### 使用
+#### 使用 
+
+[![](https://jitpack.io/v/Milk-Fun/Hook-animation.svg)](https://jitpack.io/#Milk-Fun/Hook-animation)
 
 - gradle中配置
 
