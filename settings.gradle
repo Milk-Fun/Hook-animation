@@ -1,1 +1,1 @@
-include ':app', ':zfinishimage'
+include ':app'
