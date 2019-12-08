@@ -1,6 +1,7 @@
 *.iml
-.gradle/
-.idea/
+.idea
+app/*
+.gradle
 /local.properties
 /.idea/caches/build_file_checksums.ser
 /.idea/libraries
@@ -10,7 +11,3 @@
 /build
 /captures
 .externalNativeBuild
-
-
-app/src/main/java/com/milkzz/myapplication/MainActivity.java
-app/src/main/res/layout/activity_main.xml
