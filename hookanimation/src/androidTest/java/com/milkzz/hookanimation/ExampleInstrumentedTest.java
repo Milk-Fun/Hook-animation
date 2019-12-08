@@ -1,4 +1,4 @@
-package com.milkzz.myapplication;
+package com.milkzz.hookanimation;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.milkzz.myapplication", appContext.getPackageName());
+        assertEquals("com.milkzz.hookanimation.test", appContext.getPackageName());
     }
 }

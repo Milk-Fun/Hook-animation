@@ -1,24 +1,11 @@
 <resources>
 
-    <declare-styleable name="ZFinishImage">
-        <attr name="circleR" format="dimension"/>
-        <attr name="colorCircle" format="color"/>
-        <attr name="colorMark" format="color"/>
-        <attr name="colorBG" format="color"/>
-        <attr name="animTime" format="integer"/>
-        <attr name="widthHook" format="dimension"/>
-        <attr name="startWhenInit" format="boolean"/>
-    </declare-styleable>
-
-    <declare-styleable name="ZFinishImage1">
-        <attr name="z1CircleR" format="dimension"/>
-        <attr name="z1ColorCircle" format="color"/>
-        <attr name="z1ColorMark" format="color"/>
-        <attr name="z1ColorBG" format="color"/>
-        <attr name="z1AnimTime" format="integer"/>
-        <attr name="z1WidthHook" format="dimension"/>
-        <attr name="z1StartWhenInit" format="boolean"/>
-        <attr name="z1ColorCircleStoke" format="color"/>
-    </declare-styleable>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
 
 </resources>

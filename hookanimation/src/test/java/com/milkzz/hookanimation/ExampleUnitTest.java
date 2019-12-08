@@ -1,4 +1,4 @@
-package com.milkzz.myapplication;
+package com.milkzz.hookanimation;
 
 import org.junit.Test;
 
