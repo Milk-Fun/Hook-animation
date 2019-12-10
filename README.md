@@ -8,11 +8,11 @@
 
 - ZFinishImage
 
-![image](https://github.com/Milk-Fun/Hook-animation/tree/master/img/1.gif)
+![ZImageView](https://github.com/Milk-Fun/Hook-animation/blob/master/img/ZImageView.gif)
 
 - ZFinishImage1
 
-![image](https://github.com/Milk-Fun/Hook-animation/tree/master/img/2.gif)
+![image](https://github.com/Milk-Fun/Hook-animation/blob/master/img/ZImageView1.gif)
 
 #### 使用
 
